@@ -1,0 +1,14 @@
+{
+  "name": "github-actions-demo",
+  "version": "1.0.0",
+  "description": "test of my js code",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Bohumil Čmerda",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
